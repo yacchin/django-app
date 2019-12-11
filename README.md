@@ -1,2 +1,2 @@
-# django-polls
-https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+# django-app
+Django app.
