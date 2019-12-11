@@ -3,7 +3,7 @@ Django app.
 
 ## Build image
 ```
-$ /path/to/django-app
+$ cd /path/to/django-app
 $ docker build -t django-app .
 ```
 
