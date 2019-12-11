@@ -9,4 +9,4 @@ RUN pip install -r requirements.txt
 
 WORKDIR /code/mysite
 
-CMD ["python",  "manage.py", "runserver"]
+CMD ["python",  "manage.py", "runserver", "80"]
